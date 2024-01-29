@@ -1,0 +1,10 @@
+.popup-wrap {
+    position: relative;
+    display: flex;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    flex-direction: column;
+    justify-content: space-between;
+}

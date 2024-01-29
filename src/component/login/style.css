@@ -1,0 +1,17 @@
+html, body, root {
+    width: 100%;
+    vertical-align: baseline;
+}
+
+html {
+    height: 100%;
+}
+
+.login-wrap {
+    margin: 30px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
